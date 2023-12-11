@@ -57,7 +57,7 @@ destroying web pages is made by kick ass, go check out the website
 
 https://kickassapp.com
 
-edpuzzle auto answer has just been updates, lmk if it breaks
+edpuzzle auto answer has just been updated, lmk if it breaks
 
 inspect element does not work on google docs or forms
 
