@@ -14,7 +14,7 @@ then, copy all of the code in the file.
 
 ![Screenshot 2023-12-10 203823](https://github.com/Lucc24/Lucc33s-bookmarklets/assets/148596091/140a248f-883d-4a1e-bdfd-933709998864)
 
-right click on your bookmarks bar and select "new page" or "add site"
+right click on your bookmarks bar and select "add page" or "add site"
 
 ![Screenshot 2023-12-10 203910](https://github.com/Lucc24/Lucc33s-bookmarklets/assets/148596091/488d9670-9565-4816-b2e2-bb8fc7dff12b)
 
