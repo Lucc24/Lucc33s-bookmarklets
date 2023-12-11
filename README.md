@@ -1,8 +1,10 @@
-# Lucc33s-bookmarklets
+# Lucc33's-bookmarklets
 # The best collection of bookmarklets out there (not actually)
 
+a star would be cool⭐
 
-# HOW TO INSTALL A BOOKMARKLET
+
+# INSTALLATION
 
 first, click on the file you would like to add as a bookmarklet. (no need to download the file)
 
@@ -32,3 +34,18 @@ car axle client repo
 https://github.com/car-axle-client/car-axle-client
 
 
+# ACTIVATING SECURLY KILLER
+
+literally just be on the securly website then click it
+
+![Screenshot 2023-12-10 204820](https://github.com/Lucc24/Lucc33s-bookmarklets/assets/148596091/3eb1cb32-6da5-4c7e-ab68-b56ca18da449)
+
+the 3d webpage one may be a little jank, works best with a mouse instead of a trackpad
+
+
+
+the gimkit script only allows it to work AFTER you have gone through most or all of the questions, regardless of if you got them right or not.
+
+for some reason, autoclicker bookmarklets dont work on cookie clicker
+
+PLEASE let me know if any of these do not work, you can contact me on discord @lucc33 or through github.
