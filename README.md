@@ -45,6 +45,34 @@ literally just be on the securly website then click it
 # about the bookmarklets
 the 3d webpage one may be a little jank, works best with a mouse instead of a trackpad
 
+page editor also retains the font and color of whatever you are editing
+
+adblocker may get rid of embed games and such
+
+you can only barrel roll once, you have to refresh the pagfe to do it again
+
+car axle client is goated
+
+destroying web pages is made by kick ass, go check out the website
+
+https://kickassapp.com
+
+edpuzzle auto answer has just been updates, lmk if it breaks
+
+inspect element does not work on google docs or forms
+
+jumpy game is made by dragonmaster
+
+metal pipe may not make a sound depending on your schools restrictions
+
+the piano... is a piano
+
+renaming tab works anywhere
+
+dont span the snowy page unless you want to crash your computer
+
+make sure to try both proxies on the unblocker
+
 the gimkit script only allows it to work AFTER you have gone through most or all of the questions, regardless of if you got them right or not.
 
 for some reason, autoclicker bookmarklets dont work on cookie clicker
