@@ -69,12 +69,12 @@ the piano... is a piano
 
 renaming tab works anywhere
 
-dont span the snowy page unless you want to crash your computer
+dont spam the snowy page unless you want to crash your computer
 
 make sure to try both proxies on the unblocker
 
 the gimkit script only allows it to work AFTER you have gone through most or all of the questions, regardless of if you got them right or not.
 
-for some reason, autoclicker bookmarklets dont work on cookie clicker
+for some reason, the autoclicker bookmarklet does not work on cookie clicker
 # contact me
 PLEASE let me know if any of these do not work, you can contact me on discord @lucc33 or through github.
