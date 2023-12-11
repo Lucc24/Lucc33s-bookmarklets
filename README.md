@@ -1,8 +1,11 @@
 # Lucc33's-bookmarklets
-# The best collection of bookmarklets out there (not actually)
+The best collection of bookmarklets out there (not actually)
 
 a star would be cool⭐
 
+ALL OF THESE WORK AS OF 12/10/23
+
+i'll try to remember about this and update it with more bookmarklets
 
 # INSTALLATION
 
@@ -10,15 +13,15 @@ first, click on the file you would like to add as a bookmarklet. (no need to dow
 
 ![Screenshot 2023-12-10 203811](https://github.com/Lucc24/Lucc33s-bookmarklets/assets/148596091/969e5458-1518-4a61-996a-c7f43567e0fd)
 
-then, copy all of the code in the file.
+then, copy all of the code in the file by selecting "copy raw file"
 
 ![Screenshot 2023-12-10 203823](https://github.com/Lucc24/Lucc33s-bookmarklets/assets/148596091/140a248f-883d-4a1e-bdfd-933709998864)
 
-right click on your bookmarks bar and select "add page" or "add site"
+create a bookmark by right clicking on your bookmarks bar and selecting "add page" or "add site"
 
 ![Screenshot 2023-12-10 203910](https://github.com/Lucc24/Lucc33s-bookmarklets/assets/148596091/488d9670-9565-4816-b2e2-bb8fc7dff12b)
 
-choose a name for it and paste all of the code from the file into the url section.
+paste the code from the file into the "url" section of the bookmark, name doesn't matter
 
 ![Screenshot 2023-12-10 203929](https://github.com/Lucc24/Lucc33s-bookmarklets/assets/148596091/06da1de5-c2cd-49d8-a02d-096565ce2f81)
 
