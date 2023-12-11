@@ -1,0 +1,1 @@
+javascript:(function() {  const page = document.querySelector('body');  if (page) {    page.style.transition = 'transform 2s';    page.style.transform = 'rotate(360deg)';  }})();
