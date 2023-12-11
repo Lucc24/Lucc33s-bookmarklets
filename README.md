@@ -24,7 +24,7 @@ choose a name for it and paste all of the code from the file into the url sectio
 
 You are now good to go!
 
-I would reccomend running all bookmarklets on a new page
+run all bookmarklets on a new page, can just be a random search
 ![Screenshot 2023-12-10 203533](https://github.com/Lucc24/Lucc33s-bookmarklets/assets/148596091/0e6b4fec-12db-4fa6-91d3-10871564b603)
 
 # I would reccommend checking out car axle client first, it has a ton of useful features and games
