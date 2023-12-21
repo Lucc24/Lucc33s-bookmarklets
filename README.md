@@ -43,37 +43,68 @@ literally just be on the securly website then click it
 
 ![Screenshot 2023-12-10 204820](https://github.com/Lucc24/Lucc33s-bookmarklets/assets/148596091/3eb1cb32-6da5-4c7e-ab68-b56ca18da449)
 # about the bookmarklets
-the 3d webpage one may be a little jank, works best with a mouse instead of a trackpad
+# 3d webpages
+
+ It may be a little jank, works best with a mouse instead of a trackpad
+
+ # page editing
 
 page editor also retains the font and color of whatever you are editing
 
+# adblocker
+
 adblocker may get rid of embed games and such
+
+# barrel roll
 
 you can only barrel roll once, you have to refresh the page to do it again
 
+# car axle client
+
 car axle client is goated
 
-destroying web pages is made by kick ass, go check out the website
+# destroying web pages
 
+destroying web pages is made by kick ass, go check out the website @
 https://kickassapp.com
+
+# edpuzzle auto answer
 
 edpuzzle auto answer has just been updated, lmk if it breaks
 
+# inspect element
+
 inspect element does not work on google docs or forms
+
+# jumpy game
 
 jumpy game is made by dragonmaster
 
+# metal pipe
+
 metal pipe may not make a sound depending on your schools restrictions
+
+# piano
 
 the piano... is a piano
 
+# rename tab
+
 renaming tab works anywhere
+
+# snowy page
 
 dont spam the snowy page unless you want to crash your computer
 
+# unblocker
+
 make sure to try both proxies on the unblocker
 
+# gimkit auto answer
+
 the gimkit script only allows it to work AFTER you have gone through most or all of the questions, regardless of if you got them right or not.
+
+# autoclicker
 
 for some reason, the autoclicker bookmarklet does not work on cookie clicker
 # contact me
