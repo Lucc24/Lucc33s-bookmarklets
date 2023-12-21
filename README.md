@@ -49,7 +49,7 @@ page editor also retains the font and color of whatever you are editing
 
 adblocker may get rid of embed games and such
 
-you can only barrel roll once, you have to refresh the pagfe to do it again
+you can only barrel roll once, you have to refresh the page to do it again
 
 car axle client is goated
 
