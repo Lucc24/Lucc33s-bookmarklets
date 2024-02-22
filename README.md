@@ -37,9 +37,7 @@ car axle client repo
 https://github.com/car-axle-client/car-axle-client
 
 
-# ACTIVATING SECURLY KILLER
 
-literally just be on the securly website then click it
 
 ![Screenshot 2023-12-10 204820](https://github.com/Lucc24/Lucc33s-bookmarklets/assets/148596091/3eb1cb32-6da5-4c7e-ab68-b56ca18da449)
 # about the bookmarklets
